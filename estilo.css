@@ -1,0 +1,28 @@
+a {
+    text-decoration: none;
+    font-size: 20px; 
+    color: black
+    }
+    ul {
+    list-style: none;
+    margin: 0;
+    display: flex;
+    }
+    nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /*ALINHA VERTICALMENTE OS ITENS AO CENTRO*/
+    }
+    li {
+    margin-left: 10px;
+    }
+    .logo {
+    font-size: 40px;
+    }
+
+
+    img {
+        max-width: 200px;
+    }
+
+
